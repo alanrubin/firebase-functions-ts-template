@@ -10,4 +10,8 @@ export const helloWorld = https.onRequest((request, response) => {
   response.send("Hello from Firebase!")
 })
 
-export const comments = https.onRequest(API())
+// Change api to the relevant name - for example orders or comments
+export const api = https.onRequest(API())
+
+// Add additional express apps for different subjects
+// export const comments = https.onRequest(commentsApp())
