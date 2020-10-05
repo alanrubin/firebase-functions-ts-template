@@ -9,6 +9,7 @@ A basic template for firebase functions (and other modules). Includes:
 - CORS support for Express
 - Authentication support for APIs
 - Complete ESLint TS + Airbnb + Prettier Support
+- Sentry support (not enabled, uncomment to use it)
 
 ## Usage
 
