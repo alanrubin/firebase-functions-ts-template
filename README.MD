@@ -12,7 +12,9 @@ A basic template for firebase functions (and other modules). Includes:
 
 ## Usage
 
-Work directly from inside the "functions" directory. That includes opening VSCODE and running yarn commands. See package.json for commands.
+Download this project to your local machine. Edit ".firebaserc" to define your default project.
+
+Develop directly from inside the "functions" directory. That includes opening VSCODE and running yarn commands. See package.json for commands.
 
 ### Deployment
 
